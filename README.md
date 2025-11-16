@@ -1,4 +1,4 @@
-# Projeto Integrador
+# PROJETO INTEGRADOR – SISTEMA DIGITAL DE CONTROLE DE HORAS EXTRAS
 
 🚀 Sistema Digital de Controle de Horas Extras
 
