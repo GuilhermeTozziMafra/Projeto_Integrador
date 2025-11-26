@@ -4,7 +4,7 @@
 
 📌 Projeto Integrador – Parceria com a Startup Base27
 
-👥 Equipe: *Arthur Ribeiro, Guilherme Mafra e Pedro Henrique Sousa*
+👥 Equipe: *Arthur Ribeiro, Guilherme Mafra e Pedro Henrique Souza*
 
 **Turma:** *EO1M e EO2M*
 
